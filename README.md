@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for Data Science by coursera.org
+Repository for Data Science course by coursera.org
